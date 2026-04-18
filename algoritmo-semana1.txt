@@ -1,1 +1,9 @@
-Pregunta 5
+Pregunta 5:
+Respuesta:
+1.Buscar la información
+2.Revisar la fuente
+3.Confirmar la noticia
+4.Revisar tiempo de la noticia
+5.Buscar donde compartir
+6.Revisar a quien le llegara
+7.Compartir la informacion
