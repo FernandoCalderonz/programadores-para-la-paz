@@ -1,23 +1,24 @@
-Pregunta 4:
-Respuesta 4:
-Hay una Relación más profunda de lo que parece los
-tres temas giran alrededor de cómo las personas
-colaboran, toman decisiones y construyen confianza
-en entornos compartidos como las redes sociales
-ademas lo primero es que el uso responsable de
-la información en internet implica verificar
-fuentes, no difundir desinformación y respeta 
-otros Eso crea un entorno digital confiable.
-Sin esa base, cualquier colaboración (social o
-técnica) se vuelvefrágil ejemplo Git no es solo
-una herramienta técnica es como una forma organizada
-de trabajar juntos Y ya viendo todo eso, lo entendí 
-así:
-Usar bien la información en internet genera confianza.
-La participación ciudadana usa esa confianza para
-construir algo mejor.
-Herramientas como Git enseñan cómo organizar ese
-trabajo en equipo de forma clara y ordenada.
-Al final, es como la misma idea aplicada en 
-diferentes niveles: información, sociedad y
-tecnología.
+Pregunta 4:,
+Respuesta 4:,
+
+Hay una Relación más profunda de lo que parece los,
+tres temas giran alrededor de cómo las personas,
+colaboran, toman decisiones y construyen confianza,
+en entornos compartidos como las redes sociales,
+ademas lo primero es que el uso responsable de,
+la información en internet implica verificar,
+fuentes, no difundir desinformación y respeta, 
+otros Eso crea un entorno digital confiable.,
+Sin esa base, cualquier colaboración (social o,
+técnica) se vuelvefrágil ejemplo Git no es solo,
+una herramienta técnica es como una forma organizada,
+de trabajar juntos Y ya viendo todo eso, lo entendí, 
+así:,
+Usar bien la información en internet genera confianza.,
+La participación ciudadana usa esa confianza para,
+construir algo mejor.,
+Herramientas como Git enseñan cómo organizar ese,
+trabajo en equipo de forma clara y ordenada.,
+Al final, es como la misma idea aplicada en,
+diferentes niveles: información, sociedad y,
+tecnología.,
