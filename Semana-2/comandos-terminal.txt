@@ -1,0 +1,14 @@
+
+pwd lo use para saber si realmente me ubicaba en el repo
+ ls lo use para saber que documentos o carpetas tenia en dicho repo
+mkdir Semana-2 lo use para crear la carpeta donde pondria los archivos
+cd Semana-2 lo use para entrar a la carpeta y empesar a trabajar
+touch preguntas-semana2.txt
+touch comandos-terminal.txt
+touch reflexion-semana2.txt los use para crar los archivos txt para desarrollar la actividad
+echo lo use para agregar el contenido a los archivos txt
+cat lo use para verificar el contenido de los archivos txt
+git status lo use para verificar que los archivos fueron modificados 
+git add lo use agregar los cambios de los archivos txt
+git commit lo use para crear una foto del repo y poder subirlo a git hub
+git push lo use para subir el contenido al repo ya esistente pregramadores-para-la-paz en mi git hub personal
